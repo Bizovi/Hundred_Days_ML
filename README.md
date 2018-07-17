@@ -40,5 +40,24 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 2: July 17, 2018
 
 **Activity**:
+* Implemented Random Survival Model for Churn Prediction on a small dataset
+* Started working on King County House Prices prediction
+* Talk on Selection Bias in Machine Learning and Image Processing for Biochemistry
+* Reading from CASI for an hour
 
-**Notes**:
+**Notes**: Make a plan to extract the maximum out of the House Pricing dataset
+
+### Day 3: July 18, 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
