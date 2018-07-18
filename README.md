@@ -19,10 +19,11 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * XGBoost with Bayesian Optimization of hyperparameters [Adore Me]
 * 4 hours of Advanced Python (see [Learning Python Repository](https://github.com/bizovi/hundred_days_ml))
 * [Talk](https://www.youtube.com/watch?v=8o0e-r0B5xQ&t=647s) and Notes on Catboost algorithm developed by Yandex
-**Three days vacation in Italy**
+
+**---Three days vacation in Italy---**
 
 
-### Day 1: July 16, 2018 (Monday
+### Day 1: July 16, 2018 (Monday)
 **Activity**: 
 * Failed proof of concept of [Catboost](https://tech.yandex.com/catboost/doc/dg/concepts/r-quickstart-docpage/)
 * Narrowed the selection of books to study this summer
@@ -37,7 +38,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Refresh and work out the mathematical derivation
 
 
-### Day 2: July 17, 2018
+### Day 2: July 17, 2018 (Tuesday)
 
 **Activity**:
 * Implemented [Random Survival Model](https://kogalur.github.io/randomForestSRC/) for Churn Prediction on a small dataset
@@ -47,14 +48,23 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Make a plan to extract the maximum out of the House Pricing dataset
 
-### Day 3: July 18, 2018
+### Day 3: July 18, 2018 (Wednesday)
 
 **Activity**:
 * Talk by Lucas Bernardi on [Selection Bias](https://www.youtube.com/watch?v=3ZWCKr0vDtc&index=82&list=PLYEK5GJ_Xl7OPrucJhQ32RjafRyEdt5iT) and Propensity Modeling
 * King County House pricing implementation
 
-**Notes**:
+**Notes**: 
+* Unit Testing in R and Python for Data Science
 
+### Day 4: July 19, 2018 (Thursday)
+
+**Activity**:
+* 4 hours of Advanced Python (see [Learning Python Repository](https://github.com/bizovi/hundred_days_ml))
+* King County House pricing blog post preparation
+
+**Notes**:
+* If not exhausted read a few pages from CASI
 
 
 
