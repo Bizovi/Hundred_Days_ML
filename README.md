@@ -10,26 +10,26 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 
 ### Day -5: July 11, 2018 (Wednesday)
-* mlr: machine learning in R (half of the tutorial)
+* [mlr](https://github.com/mlr-org/mlr/blob/tutorial_pdf_dev/vignettes/tutorial/devel/pdf/mlr-tutorial_dev.pdf): machine learning in R (half of the tutorial)
 * Transferring XGBoost to mlr architecture
-* Talk on Data Mining as Exploratory Analysis (mlr)
+* [Talk](https://www.youtube.com/watch?v=d1PnFiN6nOQ) on Data Mining as Exploratory Analysis (mlr)
 * Record the most recent presentation on Machine Learning
 
 ### Day -4: July 12, 2018 (Thursday)
 * XGBoost with Bayesian Optimization of hyperparameters [Adore Me]
-* 4 hours of Advanced Python (see Learning Python Repository)
-* Talk and Notes on Catboost algorithm developed by Yandex
+* 4 hours of Advanced Python (see [Learning Python Repository](https://github.com/bizovi/hundred_days_ml))
+* [Talk](https://www.youtube.com/watch?v=8o0e-r0B5xQ&t=647s) and Notes on Catboost algorithm developed by Yandex
 **Three days vacation in Italy**
 
 
 ### Day 1: July 16, 2018 (Monday
 **Activity**: 
-* Failed proof of concept of Catboost
+* Failed proof of concept of [Catboost](https://tech.yandex.com/catboost/doc/dg/concepts/r-quickstart-docpage/)
 * Narrowed the selection of books to study this summer
-* Started walking through Arthur Carpentier's Classification from Scratch
-* Red reviews of Efron's CASI, Introduction
-* Podcast from McKinzie's Data Science Consultant on Organizational Change
-* Read 5 Mark Edmondson articles on Data Science infrastructure in Google Cloud
+* Started walking through Arthur Carpentier's [Classification from Scratch](https://freakonometrics.hypotheses.org/52731)
+* Red [reviews](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) of Efron's CASI, Introduction
+* [Podcast](https://www.buzzsprout.com/147669/744363) from McKinzie's Data Science Consultant on Organizational Change
+* Read 5 Mark Edmondson [articles](http://code.markedmondson.me/) on Data Science infrastructure in Google Cloud
 
 **Notes**: Logistic regression is far far from finished. Need to:
 * Generalize the functions
@@ -40,17 +40,20 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 2: July 17, 2018
 
 **Activity**:
-* Implemented Random Survival Model for Churn Prediction on a small dataset
-* Started working on King County House Prices prediction
-* Talk on Selection Bias in Machine Learning and Image Processing for Biochemistry
-* Reading from CASI for an hour
+* Implemented [Random Survival Model](https://kogalur.github.io/randomForestSRC/) for Churn Prediction on a small dataset
+* Started working on [King County](https://www.kaggle.com/harlfoxem/housesalesprediction/kernels) House Prices prediction
+* Talk on [Image Processing](https://www.youtube.com/watch?v=3HOulHAUhQw) for Biochemistry
+* Reading from [CASI](http://web.stanford.edu/~hastie/CASI/order.html) for an hour
 
 **Notes**: Make a plan to extract the maximum out of the House Pricing dataset
 
 ### Day 3: July 18, 2018
 
+**Activity**:
+* Talk by Lucas Bernardi on [Selection Bias](https://www.youtube.com/watch?v=3ZWCKr0vDtc&index=82&list=PLYEK5GJ_Xl7OPrucJhQ32RjafRyEdt5iT) and Propensity Modeling
+* King County House pricing implementation
 
-
+**Notes**:
 
 
 
