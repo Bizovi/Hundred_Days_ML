@@ -46,16 +46,18 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Talk on [Image Processing](https://www.youtube.com/watch?v=3HOulHAUhQw) for Biochemistry
 * Reading from [CASI](http://web.stanford.edu/~hastie/CASI/order.html) for an hour
 
-**Notes**: Make a plan to extract the maximum out of the House Pricing dataset
+**Notes**: Make a plan to extract the maximum out of the House Pricing dataset (check)
+
 
 ### Day 3: July 18, 2018 (Wednesday)
 
 **Activity**:
 * Talk by Lucas Bernardi on [Selection Bias](https://www.youtube.com/watch?v=3ZWCKr0vDtc&index=82&list=PLYEK5GJ_Xl7OPrucJhQ32RjafRyEdt5iT) and Propensity Modeling
-* King County House pricing implementation
+* King County House pricing implementation [Exploratory Data Analysis]
+* ggmap and visualizing geographical data
 
-**Notes**: 
-* Unit Testing in R and Python for Data Science
+**Notes**: First unit test in production! R's `ggmap` is amazing.
+
 
 ### Day 4: July 19, 2018 (Thursday)
 
