@@ -44,7 +44,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Implemented [Random Survival Model](https://kogalur.github.io/randomForestSRC/) for Churn Prediction on a small dataset
 * Started working on [King County](https://www.kaggle.com/harlfoxem/housesalesprediction/kernels) House Prices prediction
 * Talk on [Image Processing](https://www.youtube.com/watch?v=3HOulHAUhQw) for Biochemistry
-* Reading from [CASI](http://web.stanford.edu/~hastie/CASI/order.html) for an hour
+* Reading from [CASI](http://web.stanford.edu/~hastie/CASI/order.html) for an hour [NOT DONE]
 
 **Notes**: Make a plan to extract the maximum out of the House Pricing dataset (check)
 
@@ -62,16 +62,30 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 4: July 19, 2018 (Thursday)
 
 **Activity**:
-* 4 hours of Advanced Python (see [Learning Python Repository](https://github.com/bizovi/hundred_days_ml))
+* 4 hours of Advanced Python (see [Learning Python Repository](https://github.com/bizovi/hundred_days_ml)). Multithreading and Semaphores, Multiprocessing, Async Programming, Unit Testing
 * King County House pricing blog post preparation
+* Wrote 5 Unit Tests and refactored BigQuery helper functions
 
-**Notes**:
-* If not exhausted read a few pages from CASI
-
-
+**Notes**: Was too exhausted to read a few pages from CASI
 
 
+### Day 5: July 20, 2018 (Friday)
 
+**Activity**:
+* King County House pricing blog writing and polishing
+
+**Notes**: Reformat the markdown for [bizovi.github.io](https://bizovi.github.io)
+
+### Day 6: July 21, 2018 (Saturday)
+
+**Activity**:
+**Notes**: Prepare for the long road by downloading SanDiego Machine Learning Fundamentals Course Videos.
+
+
+### Day 7: July 22, 2018 (Sunday)
+
+**Activity**:
+**Notes**: Trip to NY, read CASI and a book in the plane(s).
 
 
 
