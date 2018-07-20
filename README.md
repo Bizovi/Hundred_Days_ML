@@ -73,6 +73,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * King County House pricing blog writing and polishing
+* Efron and Hastie CASI Chapter One and Two
 
 **Notes**: Reformat the markdown for [bizovi.github.io](https://bizovi.github.io)
 
