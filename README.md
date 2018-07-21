@@ -87,10 +87,13 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Prepare for the long road by downloading SanDiego Machine Learning Fundamentals Course Videos.
 
+**---Trip to New York---**
 
 ### Day 7: July 22, 2018 (Sunday)
 
 **Activity**:
+* Data Science in the Google Cloud from Chapter 4 forward
+* Read Chapter 4 from CASI
 **Notes**: Trip to NY, read CASI and a book in the plane(s).
 
 
