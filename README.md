@@ -80,6 +80,11 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 6: July 21, 2018 (Saturday)
 
 **Activity**:
+* King County House Prices Exploratory Data Analysis for the blog
+* Moscow flats dataset exploration for the blog
+* Read Chapter 3 from CASI
+* Computerophile on Convolutional Neural Networks, Video Streaming, Lambda Calculus
+
 **Notes**: Prepare for the long road by downloading SanDiego Machine Learning Fundamentals Course Videos.
 
 
