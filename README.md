@@ -82,7 +82,6 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * King County House Prices Exploratory Data Analysis for the blog
 * Moscow flats dataset exploration for the blog
-* Read Chapter 3 from CASI
 * Computerophile on Convolutional Neural Networks, Video Streaming, Lambda Calculus
 
 **Notes**: Prepare for the long road by downloading SanDiego Machine Learning Fundamentals Course Videos.
@@ -92,9 +91,11 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 7: July 22, 2018 (Sunday)
 
 **Activity**:
-* Data Science in the Google Cloud from Chapter 4 forward
-* Read Chapter 4 from CASI
-**Notes**: Trip to NY, read CASI and a book in the plane(s).
+* Data Science in the Google Cloud from Chapter 3 forward (pag 1-180)
+* Read Chapter 3,4 from CASI
+* More editing on house prediction challenges
+
+**Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub
 
 
 
