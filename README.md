@@ -92,11 +92,18 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Data Science in the Google Cloud from Chapter 3 forward (pag 1-180)
-* Read Chapter 3,4 from CASI
 * More editing on house prediction challenges
 
 **Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub
 
+
+### Day 8: July 23, 2018 (Monday)
+
+**Activity**:
+* Read Chapter 3,4 from CASI
+* Read Paper on Defensive Programming in R (checkmate)
+
+**Notes**: 
 
 
 
