@@ -93,6 +93,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Data Science in the Google Cloud from Chapter 3 forward (pag 1-180)
 * More editing on house prediction challenges
+* Presentations on Feynman's lost lecture, Fermat's Last Theorem and two "bridges", Convolutional Neural Networks
 
 **Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub
 
@@ -100,10 +101,20 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 8: July 23, 2018 (Monday)
 
 **Activity**:
-* Read Chapter 3,4 from CASI
+* Read Chapter 3 from CASI
 * Read Paper on Defensive Programming in R (checkmate)
 
+**Notes**: Unit testing and TDD is appropriate for production stage of ML, in exploratory stages it is rather counter-productive.
+
+
+### Day 9: July 24, 2018 (Monday)
+
+**Activity**:
+* Read Chapter 4 from CASI
+* Publish the EDA phase for King County Home Prices prediction
+
 **Notes**: 
+
 
 
 
