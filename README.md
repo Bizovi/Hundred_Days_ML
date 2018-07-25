@@ -107,10 +107,19 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Notes**: Unit testing and TDD is appropriate for production stage of ML, in exploratory stages it is rather counter-productive.
 
 
-### Day 9: July 24, 2018 (Monday)
+### Day 9: July 24, 2018 (Tuesday)
 
 **Activity**:
 * Read Chapter 4 from CASI
+* Talk on Churn Analysis from booking using ML and Survival Analysis
+
+**Notes**: On a right track with the dual approach of Classification and Survival analysis for Churn,
+
+
+### Day 10: July 25, 2018 (Wednesday)
+
+**Activity**:
+* Read Chapter 5 from CASI
 * Publish the EDA phase for King County Home Prices prediction
 
 **Notes**: 
