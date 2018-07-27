@@ -124,13 +124,13 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation
 
-### Day 11: July 25, 2018 (Wednesday)
+### Day 11: July 25, 2018 (Thursday)
 
 **---Night Out Driking---**
 
 ### Day 12: July 26, 2018 (Friday)
 
 **Activity**:
-* Read Chapter 56
+* Read Chapter 6 from CASIs
 
 **Notes**: 
