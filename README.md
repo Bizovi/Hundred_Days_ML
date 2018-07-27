@@ -120,7 +120,6 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Read Chapter 5 from CASI
-* Publish the EDA phase for King County Home Prices prediction
 
 **Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation
 
@@ -128,9 +127,11 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **---Night Out Driking---**
 
+**Notes**: Catch up on Week Four of Advanced Python Course,
+
 ### Day 12: July 26, 2018 (Friday)
 
 **Activity**:
 * Read Chapter 6 from CASIs
 
-**Notes**: 
+**Notes**: Publish the EDA phase for King County Home Prices prediction
