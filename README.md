@@ -133,5 +133,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Read Chapter 6 from CASIs
+* Bayesian Logistic Regression in rstanarm by Aki Vehtari on Prima Indians dataset
+* Horseshoe prior paper by Aki Vehtari
 
 **Notes**: Publish the EDA phase for King County Home Prices prediction
