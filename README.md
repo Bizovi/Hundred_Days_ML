@@ -122,8 +122,15 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Read Chapter 5 from CASI
 * Publish the EDA phase for King County Home Prices prediction
 
+**Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation
+
+### Day 11: July 25, 2018 (Wednesday)
+
+**---Night Out Driking---**
+
+### Day 12: July 26, 2018 (Friday)
+
+**Activity**:
+* Read Chapter 56
+
 **Notes**: 
-
-
-
-
