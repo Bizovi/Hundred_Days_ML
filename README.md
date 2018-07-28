@@ -127,7 +127,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **---Night Out Driking---**
 
-**Notes**: Catch up on Week Four of Advanced Python Course,
+**Notes**: Catch up on Week Four of Advanced Python Course
 
 ### Day 12: July 26, 2018 (Friday)
 
@@ -136,4 +136,24 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Bayesian Logistic Regression in rstanarm by Aki Vehtari on Prima Indians dataset
 * Horseshoe prior paper by Aki Vehtari
 
-**Notes**: Publish the EDA phase for King County Home Prices prediction
+**Notes**: `rstanarm` and its vignettes are a good place to get started
+
+### Day 13: July 27, 2018 (Saturday)
+
+**Activity**:
+* Consolidate knowledge from Chapter 1 to Chapter 6 CASI
+* Bayesian Reasoning and Machine Learning Intro and Chapter 1
+
+**Notes**: **---Visit in Jersey---***
+
+
+### Day 13: July 27, 2018 (Saturday)
+
+**Activity**:
+* Publish King County EDA
+* Catch up on Week Four of Advanced Python Course
+* Improve on Classification from Scratch Carpentier Part 0 and 1
+
+**Notes**: Dust off the theory and derivations behind Logistic Regression
+
+
