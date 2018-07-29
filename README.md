@@ -81,8 +81,8 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * King County House Prices Exploratory Data Analysis for the blog
-* Moscow flats dataset exploration for the blog
-* Computerophile on Convolutional Neural Networks, Video Streaming, Lambda Calculus
+* Moscow [flats](https://www.coursera.org/learn/ekonometrika) dataset exploration for the blog
+* Computerophile on [Convolutional Neural Networks](https://www.youtube.com/watch?v=BFdMrDOx_CM), [Deep Learning](https://www.youtube.com/watch?v=TJlAxW-2nmI) Video Streaming, [Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs)
 
 **Notes**: Prepare for the long road by downloading SanDiego Machine Learning Fundamentals Course Videos.
 
@@ -93,7 +93,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Data Science in the Google Cloud from Chapter 3 forward (pag 1-180)
 * More editing on house prediction challenges
-* Presentations on Feynman's lost lecture, Fermat's Last Theorem and two "bridges", Convolutional Neural Networks
+* Presentations on [Feynman's lost lecture](https://www.youtube.com/watch?v=xdIjYBtnvZU), [Fermat's Last Theorem](https://www.youtube.com/watch?v=nUN4NDVIfVI&t=1489s) and two "bridges", [Convolutional Neural Networks](https://www.youtube.com/watch?v=py5byOOHZM8)
 
 **Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub
 
@@ -102,7 +102,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Read Chapter 3 from CASI
-* Read Paper on Defensive Programming in R (checkmate)
+* Read Paper on Defensive Programming in R ([checkmate](https://mllg.github.io/checkmate/))
 
 **Notes**: Unit testing and TDD is appropriate for production stage of ML, in exploratory stages it is rather counter-productive.
 
@@ -111,7 +111,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Read Chapter 4 from CASI
-* Talk on Churn Analysis from booking using ML and Survival Analysis
+* Talk on [Churn](https://www.youtube.com/watch?v=Fa3Ha6QYp3o&t=1504s) Analysis from booking using ML and Survival Analysis
 
 **Notes**: On a right track with the dual approach of Classification and Survival analysis for Churn,
 
@@ -133,8 +133,8 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Activity**:
 * Read Chapter 6 from CASIs
-* Bayesian Logistic Regression in rstanarm by Aki Vehtari on Prima Indians dataset
-* Horseshoe prior paper by Aki Vehtari
+* Bayesian Logistic Regression in rstanarm by [Aki Vehtari](https://www.kaggle.com/avehtari/bayesian-logistic-regression-with-rstanarm) on Prima Indians dataset
+* Horseshoe prior [paper](https://arxiv.org/abs/1610.05559) by Aki Vehtari
 
 **Notes**: `rstanarm` and its vignettes are a good place to get started
 
@@ -144,16 +144,23 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Consolidate knowledge from Chapter 1 to Chapter 6 CASI
 * Bayesian Reasoning and Machine Learning Intro and Chapter 1
 
-**Notes**: **---Visit in Jersey---***
+**Notes**: **---Visit in Jersey---**
 
 
-### Day 13: July 27, 2018 (Saturday)
+### Day 14: July 27, 2018 (Saturday)
 
 **Activity**:
 * Publish King County EDA
-* Catch up on Week Four of Advanced Python Course
-* Improve on Classification from Scratch Carpentier Part 0 and 1
+* Catch up on Week Four of Advanced Python [Course](http://cursuri.telacad.ro/)
+* Improve on [Classification from Scratch](https://freakonometrics.hypotheses.org/52731) Carpentier Part 0 and 1
+* [Talk](https://www.youtube.com/watch?v=KFE039xtYJU) on Tips, Tricks and topics in text analysis
 
 **Notes**: Dust off the theory and derivations behind Logistic Regression
+
+### Day 15: July 28, 2018 (Monday)
+
+**Activity**:
+
+**Notes**:
 
 
