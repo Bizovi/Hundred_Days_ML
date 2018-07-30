@@ -147,7 +147,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Notes**: **---Visit in Jersey---**
 
 
-### Day 14: July 27, 2018 (Saturday)
+### Day 14: July 27, 2018 (Sunday)
 
 **Activity**:
 * Publish King County EDA
@@ -160,6 +160,9 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 15: July 28, 2018 (Monday)
 
 **Activity**:
+* Sliding window methodology for Churn Modeling
+* Connect Chapter 6 CASI with David Robinson's [pamphlet](http://varianceexplained.org/r/empirical_bayes_baseball/) on Empirical Bayes
+* Solve Barber's BRML Chapter One puzzles, carefully review notations and work out examples
 
 **Notes**:
 
