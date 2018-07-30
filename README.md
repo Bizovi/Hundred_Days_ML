@@ -163,6 +163,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Sliding window methodology for Churn Modeling
 * Connect Chapter 6 CASI with David Robinson's [pamphlet](http://varianceexplained.org/r/empirical_bayes_baseball/) on Empirical Bayes
 * Solve Barber's BRML Chapter One puzzles, carefully review notations and work out examples
+* Make a package with Google Cloud Helper functions
 
 **Notes**:
 
