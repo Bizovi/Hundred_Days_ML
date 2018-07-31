@@ -123,13 +123,13 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation
 
-### Day 11: July 25, 2018 (Thursday)
+### Day 11: July 26, 2018 (Thursday)
 
 **---Night Out Driking---**
 
 **Notes**: Catch up on Week Four of Advanced Python Course
 
-### Day 12: July 26, 2018 (Friday)
+### Day 12: July 27, 2018 (Friday)
 
 **Activity**:
 * Read Chapter 6 from CASIs
@@ -138,7 +138,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: `rstanarm` and its vignettes are a good place to get started
 
-### Day 13: July 27, 2018 (Saturday)
+### Day 13: July 28, 2018 (Saturday)
 
 **Activity**:
 * Consolidate knowledge from Chapter 1 to Chapter 6 CASI
@@ -147,7 +147,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Notes**: **---Visit in Jersey---**
 
 
-### Day 14: July 27, 2018 (Sunday)
+### Day 14: July 29, 2018 (Sunday)
 
 **Activity**:
 * Publish King County EDA
@@ -157,14 +157,26 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Dust off the theory and derivations behind Logistic Regression
 
-### Day 15: July 28, 2018 (Monday)
+### Day 15: July 30, 2018 (Monday)
 
 **Activity**:
 * Sliding window methodology for Churn Modeling
-* Connect Chapter 6 CASI with David Robinson's [pamphlet](http://varianceexplained.org/r/empirical_bayes_baseball/) on Empirical Bayes
-* Solve Barber's BRML Chapter One puzzles, carefully review notations and work out examples
 * Make a package with Google Cloud Helper functions
 
-**Notes**:
+**Notes**: Documentation with roxygen2 and best practices refresher for package building
+
+
+### Day 16: July 31, 2018 (Tuesday)
+
+**Activity**:
+* Connect Chapter 6 CASI with David Robinson's [pamphlet](http://varianceexplained.org/r/empirical_bayes_baseball/) on Empirical Bayes
+* Solve Barber's BRML Chapter One puzzles, carefully review notations and work out examples
+
+**Notes**: **---Visit at Adore Me Warehouse---**
+
+
+
+
+
 
 
