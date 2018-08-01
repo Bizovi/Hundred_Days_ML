@@ -171,9 +171,16 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Connect Chapter 6 CASI with David Robinson's [pamphlet](http://varianceexplained.org/r/empirical_bayes_baseball/) on Empirical Bayes
 * Solve Barber's BRML Chapter One puzzles, carefully review notations and work out examples
+* Investigate ways ML and Statistics can be used for optimizations in a Warehouse 
 
 **Notes**: **---Visit at Adore Me Warehouse---**
 
+### Day 17: August 1, 2018 (Wednesday)
+
+**Activity**:
+* CASI Chapter 7 Reading
+* Barber's BRML Chapter Two reading
+* Week Two programming assignments from SanDiego ML Fundamentals
 
 
 
