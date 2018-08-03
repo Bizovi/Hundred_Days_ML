@@ -178,11 +178,26 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 17: August 1, 2018 (Wednesday)
 
 **Activity**:
+* Oversampling with SMOTE for dealing with class imbalance
 * CASI Chapter 7 Reading
 * Barber's BRML Chapter Two reading
 * Week Two programming assignments from SanDiego ML Fundamentals
 
+### Day 18: August 2, 2018 (Thurdsay)
 
+**Activity**:
+* Survival analysis presentation and two part papers
+* Survival analysis with time-varying predictors (R paper)
+* Gave a talk on Stats and Machine Learning for Decoding Customer Behavior
+* Catch up on Advanced Python's Week 5 Course 
+
+**Notes**: **---Ping-pong place---**
+
+### Day 19: August 3, 2018 (Friday)
+
+**Activity**:
+
+**Notes**: 
 
 
 
