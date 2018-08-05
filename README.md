@@ -178,16 +178,15 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 17: August 1, 2018 (Wednesday)
 
 **Activity**:
-* Oversampling with SMOTE for dealing with class imbalance
-* CASI Chapter 7 Reading
-* Barber's BRML Chapter Two reading
-* Week Two programming assignments from SanDiego ML Fundamentals
+* Oversampling with [SMOTE](https://arxiv.org/pdf/1106.1813.pdf) for dealing with class imbalance with [mlr](https://arxiv.org/pdf/1609.06146.pdf)
+* Bias-Variance diagnostics on Train-Test-Prod Churn datasets
+* Computerophile video on [timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
-### Day 18: August 2, 2018 (Thurdsay)
+### Day 18: August 2, 2018 (Thursday)
 
 **Activity**:
-* Survival analysis presentation and two part papers
-* Survival analysis with time-varying predictors (R paper)
+* Survival analysis presentation
+* Survival analysis Part One
 * Gave a talk on Stats and Machine Learning for Decoding Customer Behavior
 * Catch up on Advanced Python's Week 5 Course 
 
@@ -196,9 +195,29 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 19: August 3, 2018 (Friday)
 
 **Activity**:
+* Survival Analysis Part Two, Three, Four
+* Survival analysis with time-varying predictors (R paper)
+* Learning Python ed. V. Introduction
+
+**Notes**: Try Survival Random Forests with time-varying predictors.
+
+### Day 19: August 4, 2018 (Saturday)
+
+**Activity**:
+* Finally Publish the Blog Post with EDA for King County home prices prediction
+* Investigate differences between STAN and PyMC3
+* Bayesian Survival Analysis in PyMC3: four articles as examples
 
 **Notes**: 
 
+### Day 21: August 5, 2018 (Sunday)
+
+**Activity**: 
+* CASI Chapter 7 Reading
+* Barber's BRML Chapter Two reading
+* Week Two programming assignments from SanDiego ML Fundamentals
+
+**Notes**: 
 
 
 
