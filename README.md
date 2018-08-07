@@ -220,4 +220,12 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Notes**: 
 
 
+### Day 22: August 6, 2018 (Monday)
+
+**Activity**: 
+* Survival Analysis for Churn Prediction in Game Industry
+* Conditional Survival Ensembles
+* WTTE-RNN for Churn Prediction
+
+**Notes**: 
 
