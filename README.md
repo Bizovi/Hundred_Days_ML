@@ -46,13 +46,13 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Talk on [Image Processing](https://www.youtube.com/watch?v=3HOulHAUhQw) for Biochemistry
 * Reading from [CASI](http://web.stanford.edu/~hastie/CASI/order.html) for an hour [NOT DONE]
 
-**Notes**: Make a plan to extract the maximum out of the House Pricing dataset (check)
+**Notes**: Make a plan to extract the maximum out of the House Pricing dataset (check). Problem with Survival Random Forests: Most of the covariates of interest are time-varying, not known before the ``experiment``, i.e. first purchase and it seems not to support it, although I'm sure it is possible to hack the way around this.
 
 
 ### Day 3: July 18, 2018 (Wednesday)
 
 **Activity**:
-* Talk by Lucas Bernardi on [Selection Bias](https://www.youtube.com/watch?v=3ZWCKr0vDtc&index=82&list=PLYEK5GJ_Xl7OPrucJhQ32RjafRyEdt5iT) and Propensity Modeling
+* Talk by Lucas Bernardi on [Selection Bias: The elephant in the room](https://www.youtube.com/watch?v=3ZWCKr0vDtc&index=82&list=PLYEK5GJ_Xl7OPrucJhQ32RjafRyEdt5iT) and Propensity Modeling
 * King County House pricing implementation [Exploratory Data Analysis]
 * ggmap and visualizing geographical data
 
@@ -95,7 +95,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * More editing on house prediction challenges
 * Presentations on [Feynman's lost lecture](https://www.youtube.com/watch?v=xdIjYBtnvZU), [Fermat's Last Theorem](https://www.youtube.com/watch?v=nUN4NDVIfVI&t=1489s) and two "bridges", [Convolutional Neural Networks](https://www.youtube.com/watch?v=py5byOOHZM8)
 
-**Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub
+**Notes**: Compute Engine, AppEngine, Data Studio, BigQuery, DataLab, DataFlow, PubSub. Time spent mostly on the road.
 
 
 ### Day 8: July 23, 2018 (Monday)
@@ -113,15 +113,16 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Read Chapter 4 from CASI
 * Talk on [Churn](https://www.youtube.com/watch?v=Fa3Ha6QYp3o&t=1504s) Analysis from booking using ML and Survival Analysis
 
-**Notes**: On a right track with the dual approach of Classification and Survival analysis for Churn,
+**Notes**: On a right track with the dual approach of Classification and Survival analysis for Churn.
 
 
 ### Day 10: July 25, 2018 (Wednesday)
 
 **Activity**:
 * Read Chapter 5 from CASI
+* Automating feature preprocessing pipelines considering temporal constraints
 
-**Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation
+**Notes**: Exponential family for statistical infenece: connect with Ghrahramani's presenation.
 
 ### Day 11: July 26, 2018 (Thursday)
 
@@ -162,6 +163,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Sliding window methodology for Churn Modeling
 * Make a package with Google Cloud Helper functions
+* Different modeling configuration of available history of purchases and prediction horizon.
 
 **Notes**: Documentation with roxygen2 and best practices refresher for package building
 
@@ -195,20 +197,20 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 19: August 3, 2018 (Friday)
 
 **Activity**:
-* Survival Analysis Part Two, Three, Four
+* Survival Analysis Part Two (Multidimensional Analysis), Three (Time Varying Covariates), Four (Advanced Topics)
 * Survival analysis with time-varying predictors (R paper)
 * Learning Python ed. V. Introduction
 
-**Notes**: Try Survival Random Forests with time-varying predictors.
+**Notes**: Try Survival Random Forests with time-varying predictors (treating them as iid when they are hierarchical).
 
-### Day 19: August 4, 2018 (Saturday)
+### Day 20: August 4, 2018 (Saturday)
 
 **Activity**:
 * Finally Publish the Blog Post with EDA for King County home prices prediction
 * Investigate differences between STAN and PyMC3
 * Bayesian Survival Analysis in PyMC3: four articles as examples
 
-**Notes**: 
+**Notes**: At the moment survival analysis looks like the most promising tool, especially when Classification methods are unable to find a meaningful pattern even in training datasets.
 
 ### Day 21: August 5, 2018 (Sunday)
 
@@ -217,7 +219,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Barber's BRML Chapter Two reading
 * Week Two programming assignments from SanDiego ML Fundamentals
 
-**Notes**: 
+**Notes**: Reconsidering if a PhD is worth it and choices made until now.
 
 
 ### Day 22: August 6, 2018 (Monday)
@@ -226,6 +228,63 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Survival Analysis for Churn Prediction in Game Industry
 * Conditional Survival Ensembles
 * WTTE-RNN for Churn Prediction
+* WTTE-RNN Thesis by Egil Martinsson
+
+**Notes**: As Egil Martinsson emphasizes, most of the ways of predicting churn are hack-ish. It's a nice area of investigation, trying to extend the classical time to event models.
+
+### Day 23: August 7, 2018 (Tuesday)
+
+**Activity**: 
+* Wrangle Customer Care data to improve model predictions.
+* Feature Engineering for Churn Model
+* Brainstorming on ways in which to derive more meaningful features
+
+**Notes**: Precision and Recall are not yet satisfactory, which means more resourcefulness in feature engineering.
+
+### Day 24: August 8, 2018 (Wednesday)
+
+**Activity**: 
+* Undersampling for imbalanced classes with high Bayes Error
+* Evaluating model performance by Train, Test, Production via AUC, Recall and Precision
+* Experiment with Bayesian Additive Regression trees for classification. Investigate variable importance and diagnostics.
+
+**Notes**: For large datasets in BartMachine, in order not to run out of memory, one has to disable caching and evaluation of peformance metrics. One wrong step and the Java will be out of memory.
+
+### Day 25: August 9, 2018 (Thursday)
+
+**Activity**: 
+* Bang my head on ExactTarget's opaque Automation Studio. 
+* More experiments with BartMachine
+* Remembering RueLaLa and their forecasting engine.
+
+**Notes**: **---Night at a rooftop---**
+
+### Day 26: August 10, 2018 (Friday)
+
+**Activity**: 
 
 **Notes**: 
+
+
+### Day 27: August 11, 2018 (Saturday)
+
+**Activity**: 
+
+**Notes**: 
+
+
+### Day 28: August 12, 2018 (Sunday)
+
+**Activity**: 
+
+**Notes**: 
+
+**---Going back to Bucharest----**
+
+### Day 29: August 13, 2018 (Monday)
+
+**Activity**: 
+
+**Notes**: Mostly on the road
+
 
