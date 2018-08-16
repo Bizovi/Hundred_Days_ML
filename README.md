@@ -257,34 +257,42 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * More experiments with BartMachine
 * Remembering RueLaLa and their forecasting engine.
 
-**Notes**: **---Night at a rooftop---**
-
-### Day 26: August 10, 2018 (Friday)
-
-**Activity**: 
-
-**Notes**: 
+**Notes**: **---Night at a rooftop, Work and Exploring NY---**
 
 
 ### Day 27: August 11, 2018 (Saturday)
 
 **Activity**: 
+* 80000 hours podcast: how should you change the beliefs when encountering new evidence
+* SanDiego Fundamentals of Machine Learning week two: Programming assignments and Quizzez
 
-**Notes**: 
 
+**---Long flight to Bucharest and Moving Out----**
 
-### Day 28: August 12, 2018 (Sunday)
+### Day 29: August 15, 2018 (Wednesday)
+
+**Activity**: 
+* CASI Chapter 8 on GLM and Regression trees
+* CASI Chapter 9 on Survival Analysis (Kaplan-Meier, Log-Rank, CoxPH)
+* Presentation on OpenAI Deep reinforcement learning 5v5 Dota 2
+* Bayesian Hierarchical models in PyMC3 vs PySTAN
+* Light presentation of hierarchical models
+
+**Notes**: PyMC3 is very nice for rapid prototyping and STAN would be better suitable for production systems. Indexing e.g. vectors of parameters might be more tricky in STAN where you have to iterate. For R STAN is the heavy favorite.
+
+### Day 30: August 16, 2018 (Thursday)
+
+**Activity**: 
+* Advanced Python: Django Setup, The ORM Model and Framework logic and purpose
+* CASI Chapter 10 on Jackknife and Bootstrap
+
+**Notes**: For the Advanced Python, Implement a recommendation system. It's a good chance to practice the python recommendation libraries and prepare for the final exam.
+
+### Day 31: August 17, 2018 (Friday)
 
 **Activity**: 
 
 **Notes**: 
 
-**---Going back to Bucharest----**
-
-### Day 29: August 13, 2018 (Monday)
-
-**Activity**: 
-
-**Notes**: Mostly on the road
 
 
