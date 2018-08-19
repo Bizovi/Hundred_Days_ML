@@ -260,7 +260,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Notes**: **---Night at a rooftop, Work and Exploring NY---**
 
 
-### Day 27: August 11, 2018 (Saturday)
+### Day 26: August 11, 2018 (Saturday)
 
 **Activity**: 
 * 80000 hours podcast: how should you change the beliefs when encountering new evidence
@@ -269,7 +269,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **---Long flight to Bucharest and Moving Out----**
 
-### Day 29: August 15, 2018 (Wednesday)
+### Day 27: August 15, 2018 (Wednesday)
 
 **Activity**: 
 * CASI Chapter 8 on GLM and Regression trees
@@ -280,7 +280,7 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: PyMC3 is very nice for rapid prototyping and STAN would be better suitable for production systems. Indexing e.g. vectors of parameters might be more tricky in STAN where you have to iterate. For R STAN is the heavy favorite.
 
-### Day 30: August 16, 2018 (Thursday)
+### Day 28: August 16, 2018 (Thursday)
 
 **Activity**: 
 * Advanced Python: Django Setup, The ORM Model and Framework logic and purpose
@@ -288,7 +288,27 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: For the Advanced Python, Implement a recommendation system. It's a good chance to practice the python recommendation libraries and prepare for the final exam.
 
-### Day 31: August 17, 2018 (Friday)
+### Day 29: August 17, 2018 (Friday)
+
+**Activity**: 
+* A refresher on Clustering, kNN and Distance Measures
+* Make a plan for Fast.ai courses
+* Prepare the software for the Data Science Summer School
+
+**Notes**: 
+
+### Day 30: August 18, 2018 (Saturday)
+
+**Activity**: 
+* CASI Chapter 11 on Bootstrap Distribution
+* Fast.ai Computational Linear Algebra Week One
+* Fast.ai CLA Week One exercises and programming
+* Fast Image processing using Halide
+* Record presentation: Data Science and Machine Learning, an interdisciplinary approach to solving complex problems
+
+**Notes**: Fast.ai as a top choice (besides open.ai) for Deep Learning Courses
+
+### Day 31: August 19, 2018 (Sunday)
 
 **Activity**: 
 
