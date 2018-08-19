@@ -311,8 +311,12 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 ### Day 31: August 19, 2018 (Sunday)
 
 **Activity**: 
+* Review of Washington's Regression Course: Gradient Descent, Ridge, Lasso
+* Fast.ai Deep Learning for Coders Week 1
+* Fast.ai Deep Learning for Coders Week 2
+* List of courses and books for the next year from three perspectives: Deep Learning, Statistical Learning and Bayesian Statistics/Econometrics.
 
-**Notes**: 
+**Notes**: Learn Pytorch for complex cutting-edge ML/Probabilistic algorithms and Tensorflow for simpler, but scalable, production code. Make use of fast.ai's Python library which implements best practices sometimes lost in particular papers (like Restarting Minibatch Gradient Descent, learning rate optimization, data augmentation and so on ...)
 
 
 
