@@ -318,5 +318,25 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Notes**: Learn Pytorch for complex cutting-edge ML/Probabilistic algorithms and Tensorflow for simpler, but scalable, production code. Make use of fast.ai's Python library which implements best practices sometimes lost in particular papers (like Restarting Minibatch Gradient Descent, learning rate optimization, data augmentation and so on ...)
 
+### Day 32: August 20, 2018 (Monday)
+
+**Activity**:
+* Fast.ai Deep Learning for Coders Week 3
+* Fast.ai Computational Linear Algebra Week 2
+* Fast.ai Cutting Edge Deep Learning Week 1
+
+**Notes**:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
