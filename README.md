@@ -326,7 +326,25 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Fast.ai Cutting Edge Deep Learning Week 1
 
 **Notes**:
-
+1. [distill.pub](distill.pub) for getting high-quality intuitive feel for deep learning model
+2. Time Series analysis: FA18 on edx and Novosibirsk course on openedu
+3. EdX SanDiego Statistics and Probability for Data Science in Python
+4. [neuralnetworksanddeeplearning,com](neuralnetworksanddeeplearning,com) and Ian Goodfellow's free textbook
+5. Francois Husson - Multidimensional Exploratory Data Analysis
+6. Review once again Yaser Abu-Mostafa's Learning from Data
+7. Finish coding from Richard McElreath's Statistical Rethinking
+8. Applied Hierarchical Regression Modeling by Jenniffer Hill and Andrew Gelman using STAN instead of JAGS
+9. Using R for Introduction to Econometrics, combined with insights from Brian Caffo's Mathematical Biostatistics bootcamp in R
+10. Arthur Carpentier's Classification from Scratch series
+11. EdX Columbia University Machine Learning
+12. EdX SanDiego Fundametals of Machine Learning
+13. Fast.ai Deep Learning for Coders
+14. Fast.ai Cutting Edge Deep Learning
+15. Fast.ai Computational Linear Algebra
+16. Andrew NG Open.AI's Deep Learning 1,2,3,4,5
+17. Hinton's Neural Networks for Machine Learning
+18. MIT AI Support Vector Machines and Boosting Lectures
+19. Stanford's CS231 on Computer Vision
 
 
 
