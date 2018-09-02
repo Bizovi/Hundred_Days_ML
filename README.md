@@ -323,7 +323,6 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Fast.ai Deep Learning for Coders Week 3
 * Fast.ai Computational Linear Algebra Week 2
-* Fast.ai Cutting Edge Deep Learning Week 1
 
 **Notes**:
 1. [distill.pub](distill.pub) for getting high-quality intuitive feel for deep learning model
@@ -346,15 +345,102 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 18. MIT AI Support Vector Machines and Boosting Lectures
 19. Stanford's CS231 on Computer Vision
 
+### Day 33: August 21, 2018 (Tuesday)
+
+**Activity**:
+* Fast.ai Deep Learning for Coders Week 4
+* On type I and II errors visualization
+
+### Day 34: August 22, 2018 (Wednesday)
+**Activity**:
+* Experiments with Survival Random Forests
+* Classification on Imbalanced data
+* Lift analysis
+
+### Day 35: August 23, 2018 (Thursday)
+**Activity**:
+* Survival analysis with Cox Proportional hazards for Churn
+* Desigh experiment after Ascarza's Futility of Retention
+* Introduction to Weibull Time to Event RNNs (Thesis)
+* Collect papers for ML approaches to Survival Analysis
+
+**--Travel to Data Science Summer School in Predeal---**
+* First half of Fast.ai Deep Learning for Coders Lesson 5
+
+### Day 36: August 24, 2018 (Friday)
+**Activity**:
+* Fundamentals of Data Science with Dan Nicolae
+* A crash course in Statistics by Dan Nicolae
+* Dumitru Roman's Data Driven Products at SINTEF
+* Second half of Fast.ai Deep Learning for Coders Lesson 5
+
+### Day 37: August 25, 2018 (Saturday)
+**Activity**:
+* Data Science with Python
+* Hands on Statistics with R by Dan Nicolae
+* James Hodson's AI for good foundation projects
+* First half of Fast.ai Deep Learning for Coders Lesson 6
+
+### Day 38: August 26, 2018 (Sunday)
+**Activity**:
+* Introduction to machine Learning by Razvan Bunescu
+* Deep Learning with Neural Networks workshop by Razvan Bunescu
+* Marko Grobelnik's research on knowledge graphs and text understanding
+
+
+### Day 40: August 27, 2018 (Monday)
+**Activity**:
+* Hands on workshop on machine learning by Razvan Bunescu
+* Introduction to text mining by Marko Grobelnik
+* Razvan Bunescu's research on Music and Insulin level predictions, Deep Learning and RNNs
+
+
+### Day 41: August 28, 2018 (Tuesday)
+**Activity**:
+* Machine Learning in Finance by James Hodson
+* Stop using word2vec article by StitchFix algorithmics
+
+**Notes**: Hiking in Mountains and Barbecue evening
+
+
+### Day 42: August 29, 2018 (Wednesday)
+**Activity**:
+* Active Learning articles with Python
+* Marko Grobelnik's Demo on Text Mining and Knowledge Graphs
+* Data Management: from SQL to Graph Databases and NoSQL
+* Dan Nicolae's research on Asthma and Genomics
+
+
+### Day 43: August 30, 2018 (Thursday)
+**Activity**:
+* Carlos iglesias on Data Visualization Principles and Frameworks
+* Hands on with Neo4j databases with Dumitru Roman
+* Hands on Data Visualization Pandas, Matplotlib, Seaborn and scikit-learn with Carlos Iglesias
+* Ioan Toma and Chatbots 
+* Team project on Bike Sharing Demand Prediction
+* Search for potential Datasets on Kaggle and Irvine (Rossmann, Retail, Bike Sharing, Climate, Electricity Demand by Peter Laurinec)
+* Linear Regression on Daily Data with STL decomposition. Trend interpolation with Gaussian Processes
 
 
 
+### Day 44: August 31, 2018 (Friday)
+**Activity**:
+* Seasonal Arima for Daily Predictions 
+* Quasi-Poisson GLM on hourly data
+* Data Preprocessing for Deep Learning with Embeddings for Modeling Seasonality
+* Project presentation
+* Carlos Iglesias on his project at Madrid's Politechnical University
+
+**---End of Data Science Summer School in Predeal---**
+
+### Day 45: September 1, 2018 (Saturday)
+**Activity**
+* Predicting Customer Lifetime Value with Embeddings paper
+* On youtube recommendation algorithms
+* Feedback for the summer school
 
 
-
-
-
-
-
-
-
+### Day 46: September 2, 2018 (Sunday)
+**Activity**:
+* Bayesian Statistics with RJags Course on datacamp
+* Numberophile on Dollar Game
