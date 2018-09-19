@@ -444,3 +444,106 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 **Activity**:
 * Bayesian Statistics with RJags Course on datacamp
 * Numberophile on Dollar Game
+
+### Day 47: September 3, 2018 (Monday)
+**Activity**:
+* ASOS Machine Learning for Churn Modeling
+* Predicting Churn with Customer Embeddings
+* Predicting Churn with CNN for dynamic temporal features viewed as images
+
+
+### Day 48-51: September 4-7, 2018 (Tuesday-Friday)
+**Activity**:
+* Implementing churn models according to ASOS methodlogy
+* Write data processing pipelies
+* Validate the model using rolling windows
+* Write procedures for updating and versioning models
+* Version training data and model scores
+* Explore shorter-term versions of the model
+* Visualize data with partial dependencies, heatmaps, decile and lift plots
+* Predict LTV besides churn: a key change in definition
+
+### Day 52: September 8, 2018 (Saturday)
+* Weekly Quizzes for Advanced Python Course
+* Recap of OOP in Python, Multithreading and Multiprocessing
+* Functional programming in Python
+* Prepare for the Advanced Python Exam
+
+### Day 53: September 9, 2018 (Sunday)
+**---Father in visit---**
+
+### Day 54: September 10, 2018 (Monday)
+* Half yearly Churn Model, working with time-partitioned tables
+* Quarterly Churn Model and adjusting for Seasonality
+* Fast.ai complementary resources gathering
+* Retrieve papers on Deep Learning for Survival Analysis
+
+### Day 55: September 11, 2018 (Tuesday)
+**Activity**:
+* Deploy 2 Churn Models with their pipelines
+* Model postprocessing and partial dependency
+
+### Day 56: September 12, 2018 (Wednesday)
+**Activity**:
+* Django blog with models, templates and views
+* A refresher on pandas, preparation for tomorrow's exam
+* Chapter 2 from Learning Python
+* ASE Cybernetics Diploma (papers)
+
+### Day 57: September 13, 2018 (Thursday)
+**Activity**:
+* Advanced Python Midterm Exam (Theory, Practical)
+* Advanced Python Final Exam (Theory, Practicel)
+* Advanced Python Weekly quizzes
+* Django tutorials by Corey Schafer
+* Functional programming primer in Python
+* AsE Cybernetics Diploma (retreiving)
+
+### Day 58: September 14, 2018 (Friday)
+**Activity**:
+* Machine Learning Systems, Manning, Chapter 1 on Reactive Programming
+* Churn Modeling framework and different model configurations
+
+### Day 59: September 15, 2018 (Saturday)
+**Activity**:
+* MIT AI0634 on Neural Networks and Backpropagation
+* Research setup options for running GPU: paperspace, GCP, collaboratory
+* Setup pytorch and fast.ai
+* CS231n Lecture 1 on History of Visual recognition
+* Find repositories with implementations of Deep Residual Networks
+
+**Notes**: Discuss on topics of the Data Science Summer School 
+
+### Day 60: September 16, 2018 (Sunday)
+**Activity**:
+* Exploring Convolutions from scratch, not implemented yet
+* CS231n Lecture 2 on kNN
+* CS231n Lecture 2 on Linear Classification
+* CS231n Lecture 2 SVM and Hinge Loss
+
+### Day 61: September 17, 2018 (Monday)
+**Activity**:
+* Convolutional Neural Networks CS231n Stanford Week Three
+* CS231n Article on Optimization and Hinge Loss
+* CS231n Numpy tutorial
+
+### Day 62: September 18, 2018 (Tuesday)
+**Activity**:
+* Talks about R models in production
+* Reproduce a simple sentiment analysis app in Flask using the Naive Bayes
+* Some research into building APIs for serving ML models 
+
+### Day 63: September 19, 2018 (Wednesday)
+**Activity**:
+* End-to-End Machine Learning Google Coursera Part One
+* Error Handling in R, tryCatchLog
+* Advanced R: OO Systems, Environments
+* Machine Learning Systems, Manning Chapter 2 
+
+**Comments**: Get my hands on Production Machine Learning in Google Cloud, second course in the advanced GCP ML specialization.
+
+
+
+
+
+
