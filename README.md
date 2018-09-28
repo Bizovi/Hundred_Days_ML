@@ -542,6 +542,72 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 
 **Comments**: Get my hands on Production Machine Learning in Google Cloud, second course in the advanced GCP ML specialization.
 
+### Day 64: September 20, 2018 (Thursday)
+**Activity**:
+* End-to-End Machine Learning Google Coursera Part Two
+* GCP: Machine Learning Systems Week 1 Lectures
+
+
+### Day 65: September 21, 2018 (Friday)
+**Activity**:
+* GCP: Machine Learning Systems Week 2 Lectures
+* Discussion on Bayesian Optimization for Hyperparameter tuning
+
+
+### Day 66: September 22, 2018 (Saturday)
+**Activity**:
+* Novosibirsk - Trends and Classification Week 1
+* Novosibirsk - Trends and Classification Week 2
+* Novosibirsk - Trends and Classification Week 3
+* Novosibirsk - Trends and Classification Week 4
+* Novosibirsk - Classification of Geo Entities Assignment
+* [Deeplearning.AI] Week One Lectures
+* [Deeplearning.AI] Implement Convolutional Neural Network from Scratch
+
+
+### Day 67: September 23, 2018 (Sunday)
+**Activity**:
+* [Deeplearning.AI] Finished Implementing Convolutional Neural Network from Scratch
+* [Deeplearning.AI] Week One Programming Assignment: Tensorflow CNN Application
+
+
+### Day 68: September 24, 2018 (Monday)
+**Activity**:
+* [Deeplearning.AI] Week Two Lectures
+* LeNet5 in Tensorflow [deeplearning.AI]
+
+
+### Day 69: September 25, 2018 (Tuesday)
+**Activity**:
+* ResNet50 in Keras [deeplearning.AI]
+* Half of the book Agile Kaisen
+* The ScrumMasterWay book
+
+### Day 70: September 26, 2018 (Wednesday)
+**Activity**:
+* Week 3 Lectures on CNNs [Deeplearning.AI]
+* CNNs for Churn and Time Series. Investigate Ideas of Wavelet-CNN
+
+
+### Day 71: September 27, 2018 (Thursday)
+**Activity**:
+* Meetup on Machine Learning (Networking)
+* Google Cloud Infrastructure Chat [Airflow, DataProc, CEngine]
+* Slack alerts for running jobs
+
+
+### Day 72: September 28, 2018 (Friday)
+**Activity**:
+* Week 3 Remaining Lectures on CNNs [Deeplearning.AI]
+* Airflow Orchestration blogs on medium
+
+
+
+
+
+
+
+
 
 
 
