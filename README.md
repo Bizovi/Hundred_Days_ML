@@ -602,6 +602,103 @@ Keeping track of ML studies, simulations, articles, books and papers read. Start
 * Airflow Orchestration blogs on medium
 
 
+### Day 73: September 29, 2018 (Saturday)
+### Day 74: September 30, 2018 (Sunday)
+### Day 75: October 1, 2018 (Monday)
+### Day 76: October 2, 2018 (Tuesday)
+### Day 77: October 3, 2018 (Wednesday)
+### Day 78: October 4, 2018 (Thursday)
+### Day 79: October 5, 2018 (Friday)
+
+
+**--Flight to New York--**
+### Day 80: October 6, 2018 (Saturday)
+* Chapter 3, 4 of Catastrophe Theory and its applications
+* Kubernetes in Action Chapter 1-3
+
+
+### Day 81: October 7, 2018 (Sunday)
+### Day 82: October 8, 2018 (Monday)
+### Day 83: October 9, 2018 (Tuesday)
+### Day 84: October 10, 2018 (Wednesday)
+### Day 85: October 11, 2018 (Thursday)
+### Day 86: October 12, 2018 (Friday)
+
+
+
+### Day 87: October 13, 2018 (Saturday)
+### Day 88: October 14, 2018 (Sunday)
+### Day 89: October 15, 2018 (Monday)
+### Day 90: October 16, 2018 (Tuesday)
+### Day 91: October 17, 2018 (Wednesday)
+### Day 92: October 18, 2018 (Thursday)
+### Day 93: October 19, 2018 (Friday)
+
+
+**--Flight to Marseille--**
+### Day 94: October 20, 2018 (Saturday)
+* The Art of Causal Reasoning Chapter 1, 2
+
+
+### Day 95: October 21, 2018 (Sunday)
+* Integration over hyperparameters and estimation of predictive performance, Aki Vehtari
+* Course: CS-E5710 - Bayesian Data Analysis (an overview)
+
+
+### Day 96: October 22, 2018 (Monday)
+* Kerrie Mengersen - Bayesian modelling
+* Adeline Samson - Stochastic models in biology and statistical challenges
+* Good practice in R by Julyan Arbel and Julien Stoehr
+
+
+### Day 97: October 23, 2018 (Tuesday)
+* MCMC by Christian Robert
+* Giacomo Zanella - Scalable Importance Tempering and Bayesian Variable Selection
+* Stan by Aki Vehtari
+* Gelman and Shalizi paper on the Bayesian Philosophy
+* Gelman and Hill Chapter 2 Exercises
+* Getting Started with STAN
+
+
+### Day 98: October 24, 2018 (Wednesday)
+* INLA, Harvard Rue
+* Simon Barthelme - Correcting variational approximations
+* Chris Holmes - Bayesian learning at scale with approximate models
+* Bruno Nicenboim - Cognitive models of memory processes in sentence comprehension: A case study using Bayesian hierarchical modeling
+* Proof of Sampling Distribution of Sample Variance
+
+
+### Day 99: October 25, 2018 (Thursday)
+* Particle filtering - Nicolas Chopin
+* Adam Johansen - Asymptotic Genealogies of Sequential Monte Carlo Algorithms
+* Eric-Jan Wagenmakers - Bayesian Inference with JASP
+* Marie-Pierre Etienne - Sequential Monte Carlo smoother for partially observed stochastic differential equation
+* Sebastian Reich - Interacting particle approximations for state and parameter estimation
+
+### Day 100: October 26, 2018 (Friday)
+**Activity**:
+* Aki Vehtari on Horseshoe prior, model selection
+* Sylvain Le Corff - Nonparametric maximum likelihood estimation for large random graphs with latent data
+* B. Scholkopf on Causality Part I
+* B. Scholkopf Introduction to Machine Learning
+* Shai Ben-David on Learning Theory Part I
+
+
+**--Flight to Bucharest--**
+### Day 101: October 27, 2018 (Saturday)
+**Activity**:
+* The Art of Causal Reasoning Chapter 3, 4
+* On applications of Bayesian Statistics in Linguistics
+
+
+### Day 102: October 28, 2018 (Sunday)
+**Activity**:
+* Scholkopf on Causality Part II
+* Shai Ben-David on Learning Theory Part II
+
+
+### Day 103: October 29, 2018 (Monday)
+**Activity**:
 
 
 
